@@ -16,6 +16,6 @@ There is a clear distinction in stock performance between the years 2017 and 201
 
 ![Analysis_images](Resources/2017_stock_analysis.PNG)
 
-![Analysis_images](Resources/"2018 stock analysis.PNG")
+![Analysis_images](Resources/2018_stock_analysis.PNG)
 
 ## Summary
