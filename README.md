@@ -8,6 +8,10 @@ For this specific challenge, we are refactoring code written from earlier parts 
 
 ## Results
 
+The results can be divided into two specific areas: stock performance and code performance
+
+### Stock Performance
+
 
 
 ## Summary
