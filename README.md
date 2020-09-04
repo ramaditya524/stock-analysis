@@ -14,7 +14,8 @@ The results can be divided into two specific areas: stock performance and code p
 
 There is a clear distinction in stock performance between the years 2017 and 2018.
 
-![Analysis_images](Resources/"2017 stock analysis.PNG")
+![Analysis_images](Resources/2017_stock_analysis.PNG)
+
 ![Analysis_images](Resources/"2018 stock analysis.PNG")
 
 ## Summary
