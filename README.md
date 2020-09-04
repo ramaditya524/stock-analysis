@@ -28,7 +28,12 @@ In terms of the code performance, the refactored code had run times that were mu
 
 ![Analysis_images](Resources/VBA_Challenge_2017_old.PNG)
 ![Analysis_images](Resources/VBA_Challenge_2017.PNG)
+
+As we can see from the images, the refactored code(right image) ran much faster than the original code(left image) for stock analysis of the year 2017.
+
 ![Analysis_images](Resources/VBA_Challenge_2018_old.PNG)
 ![Analysis_images](Resources/VBA_Challenge_2018.PNG)
+
+For the stock analysis of 2018, the same pattern repeats. The refactored code(right image) ran much faster than the original code(left image).
 
 ## Summary
